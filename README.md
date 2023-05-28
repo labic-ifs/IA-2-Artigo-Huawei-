@@ -4,24 +4,24 @@ Este repositório contém os arquivos relacionados ao artigo sobre as metas alca
 ## Estrutura de Pastas
 Pasta "Meta 1.1": Esta pasta contém os arquivos relacionados à meta 1.1 do projeto.
 Pasta "Meta 1.2": Esta pasta contém os arquivos relacionados à meta 1.2 do projeto.
-Dentro de cada pasta "Meta X.X", você encontrará as seguintes subpastas:
+Pasta "Relatório de Ambientes": Esta pasta contém um arquivo chamado "Relatório de Ambientes.docx", que fornece informações sobre os ambientes utilizados no projeto.
+Dentro da pasta "Meta X.X" e da pasta "Relatório Parcial", você encontrará:
 
-"Mês 1": Esta subpasta contém os arquivos referentes ao primeiro mês de acompanhamento da meta.
-"Mês 2": Esta subpasta contém os arquivos referentes ao segundo mês de acompanhamento da meta.
-"Mês 3": Esta subpasta contém os arquivos referentes ao terceiro mês de acompanhamento da meta.
-"Mês 4": Esta subpasta contém os arquivos referentes ao quarto mês de acompanhamento da meta.
-"Mês 5": Esta subpasta contém os arquivos referentes ao quinto mês de acompanhamento da meta.
+Arquivo "Relatório de Entrega de Meta.docx": Este arquivo fornece informações detalhadas sobre o progresso e o cumprimento das metas em um determinado período.
+Dentro da pasta "Relatório Semanal de Atividades Pedagógicas", você encontrará a seguinte estrutura de pastas:
+
+Pasta "Janeiro": Esta pasta contém os relatórios das atividades pedagógicas realizadas no mês de janeiro.
+Pasta "Semana 1": Esta subpasta contém o relatório referente à primeira semana de atividades.
+Pasta "Semana 2": Esta subpasta contém o relatório referente à segunda semana de atividades.
+Pasta "Semana 3": Esta subpasta contém o relatório referente à terceira semana de atividades.
 Conteúdo dos Arquivos
-Os arquivos dentro de cada pasta de mês podem incluir os seguintes tipos de documentos:
+Os arquivos dentro de cada pasta de relatório de atividades podem incluir os seguintes tipos de documentos:
 
-## Relatório de Entrega de Meta (.docx): Esses arquivos fornecem informações detalhadas sobre o progresso e o cumprimento das metas em um determinado mês.
-Prints (.docx): Estes arquivos podem conter capturas de tela relevantes ao progresso das metas.
-Pautas (.docx): Esses arquivos contêm a agenda e os principais tópicos discutidos nas reuniões relacionadas ao acompanhamento das metas.
-Atas (.docx): Estes arquivos registram as informações e decisões importantes tomadas durante as reuniões relacionadas ao acompanhamento das metas.
+## Relatório de Atividades (.docx): Esses arquivos fornecem informações detalhadas sobre as atividades pedagógicas realizadas em um determinado período.
 Anexos de Relatório de Entrega de Meta
 Dentro de cada pasta "Meta X.X", você encontrará um arquivo de anexo de relatório de entrega de meta (.docx). Esses arquivos fornecem informações adicionais ou complementares ao relatório de entrega de meta principal.
 
-# Notas Adicionais
+## Notas Adicionais
 Certifique-se de respeitar quaisquer restrições de acesso e privacidade ao compartilhar ou utilizar esses arquivos. Caso tenha dúvidas ou precise de mais informações, entre em contato com o autor do artigo ou com a equipe responsável pelo projeto.
 
 Observação: Este arquivo Readme tem a finalidade de fornecer uma visão geral dos arquivos e pastas contidos neste repositório relacionado ao artigo sobre metas. É recomendado fornecer mais detalhes e informações relevantes, conforme necessário, no corpo do próprio artigo ou em documentos complementares.
